@@ -64,3 +64,10 @@
 5. Add the resource and the prompt.
 6. Connect to Claude Code.
 7. Build the Ollama host.
+
+
+
+
+
+
+# Commands 
