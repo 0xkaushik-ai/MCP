@@ -43,3 +43,24 @@
   - A stdio server handles exactly one connection 
   - While an HTTP SERVER can handle many with the no limit set by protocol 
   - 
+
+
+
+
+# STDIO
+- State live per process 
+- Environments and secrets 
+
+
+
+# First project 
+- A small notes server 
+- Build order
+
+1. Set up the project and the SDK.
+2. Add the storage helpers (load and save the JSON file).
+3. Add the add and list tools, then test them in the Inspector.
+4. Add the read, delete and search tools, with the error cases.
+5. Add the resource and the prompt.
+6. Connect to Claude Code.
+7. Build the Ollama host.
